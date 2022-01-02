@@ -1,0 +1,16 @@
+body{
+    background:pink;
+    color:white;
+}
+#heading{
+    width:80%;
+    font-size:22px;
+}
+.name_of_objects{
+    color:yellow;
+}
+#camera{
+    border:2px dashed aqua;
+    width:350px;
+    height:300px;
+}
